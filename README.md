@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel (Aj)👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=370&size=27&pause=700&color=6A5ACD&center=true&vCenter=true&width=700&lines=Started+coding+on+a+phone;Now+I+build+CLI+tools+for+fun;Maintainer+of+GitGo+on+PyPI;I+love+Python;I+hate+math;My+code+works%2C+don%27t+ask+me+why;I+solve+Rubik%27s+cubes%2C+even+the+weird+ones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=370&size=27&pause=700&color=6A5ACD&center=true&vCenter=true&width=700&lines=Started+coding+on+a+phone;Now+I+build+Software+tools+for+fun;Maintainer+of+Netnote+Group;I+love+Python;I+hate+theory;My+code+works%2C+don%27t+ask+me+why;I+solve+Rubik%27s+cubes%2C+even+the+weird+ones" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Huerte&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
@@ -14,7 +14,7 @@
 <a href="mailto: netnotechronicles@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 <a href="https://www.linkedin.com/in/daniel-kariuki-b25333236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
 <a href=""><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" /></a>
-<a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
+<a href="https://github.com/NetNoteGroup"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
 
 <p>
    NetNote Group is a technology holding company focused on delivering innovative solutions 

@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Huerte&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
   <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
-  <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-007ACC?style=for-the-badge&logo=arduino&logoColor=white" alt="Computer Engineering Student" />
+  <img src="https://img.shields.io/badge/Computer%20Network%20Engineer-007ACC?style=for-the-badge&logo=arduino&logoColor=white" alt="Computer Engineering Student" />
 </p>
 
 <a href="mailto: netnotechronicles@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
